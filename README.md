@@ -21,11 +21,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WaZixwx&theme=github-compact" alt="Activity Graph" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-profile.vercel.app/api?profile=WaZixwx" alt="Profile Details" />
+</p>
+
 <h2 align="center">🚀 Skills & Tools</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,vue,nodejs,git,github,vscode,linux,docker,kubernetes,html,css" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,vue,nodejs,git,github,vscode,linux,docker,kubernetes,html,css,rust,go" alt="Skills" />
   </a>
 </p>
 
@@ -33,7 +37,12 @@
   <a href="https://github.com/WaZixwx">
     <img src="https://img.shields.io/badge/Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Email-Your%20Email?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <p align="center">
@@ -58,5 +67,20 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=header&text=Thanks%20for%20visiting!%20%F0%9F%98%9A&fontAlign=50&fontSize=30" alt="Header" />
+  <img src="https://raw.githubusercontent.com/WaZixwx/WaZixwx/output/snake.svg" alt="Snake Animation" />
+</p>
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify" />
+</div>
+
+<div align="center">
+  <details>
+    <summary>:tada: My Projects</summary>
+    
+  </details>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0d1117&height=30&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%98%9A" alt="Footer" />
 </p>
